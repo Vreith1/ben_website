@@ -3,7 +3,7 @@ layout: post
 title: "Volt"
 date: 2019-08-14
 description: 
-image: /assets/images/volt/IMG_1895.jpg
+image: /assets/images/volt/Finished3.jpg
 author: Ben Finlay
 tags: 
   - Installation
@@ -17,15 +17,15 @@ The journey to transformation started with a thorough survey of their existing s
 
 ![Placeholder](/assets/images/volt/Initial Survey/PrimeSUrvey.jpg#full)
 
-![Placeholder](/assets/images/volt/Initial Survey/IMG_1533.JPG#full)
+![Placeholder](/assets/images/volt/Initial Survey/IMG_1533.JPG)
 
 Various proof of concepts were drafted to refine the final layout. 
 
-![Placeholder](/assets/images/volt/concept_proof_1.JPG#full)
-![Placeholder](/assets/images/volt/concept_proof_2.JPG#full)
-![Placeholder](/assets/images/volt/concept_proof_3.JPG#full)
-![Placeholder](/assets/images/volt/concept_proof_4.JPG#full)
-![Placeholder](/assets/images/volt/concept_proof_5.JPG#full)
+![Placeholder](/assets/images/volt/concept_proof_1.JPG)
+![Placeholder](/assets/images/volt/concept_proof_2.JPG)
+![Placeholder](/assets/images/volt/concept_proof_3.JPG)
+![Placeholder](/assets/images/volt/concept_proof_4.JPG)
+![Placeholder](/assets/images/volt/concept_proof_5.JPG)
 
 Based on the client's preference ascertained from the proof of concepts, a range of 3D design concepts were further developed to bring the vision to life. 
 
